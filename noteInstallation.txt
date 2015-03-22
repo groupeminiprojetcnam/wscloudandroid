@@ -1,1 +1,11 @@
- ProjetCnam
+Note installation des sources 
+
+   importer dans eclipse les trois projet   ( Projet CnamClientAndroid_ , CnamLivreurAndroid, CnamCloudWsRest) 
+   
+   -- Penser à installer le plugin Eclipse de app engine   Exemple 	 :  http://www.tutos-android.com/webservice-rest-android-appengine-restlet-objectify
+   
+   -- La partie Cloud est déja déployée sur le compte app engine   Email : groupeminiprojetcnam@gmail.com    mot de passe : groupe123456  avec ID application 
+       groupe-mini-projet-cnam
+   
+   
+   
